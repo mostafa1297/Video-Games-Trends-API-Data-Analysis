@@ -1,8 +1,8 @@
  # Video Game Data Analysis & Visualization
- ##Project Overview
+ ## Project Overview
 This project focuses on the end-to-end process of data science: collecting, cleaning, analyzing, and visualizing data from the video game industry. Using the RAWG API, the analysis explores trends in game releases, popular genres, and platform distributions to extract meaningful market insights.
 
- ##Tools & Technologies
+ ## Tools & Technologies
 Language: Python 
 
 Libraries: - Pandas (Data Manipulation)
